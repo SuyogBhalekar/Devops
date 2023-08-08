@@ -3,4 +3,4 @@ this is a latest feature
 doing so much work
 
 half work done
- under the development
+ under the development we made some changes for check merge conflicts
